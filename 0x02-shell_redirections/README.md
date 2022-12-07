@@ -1,1 +1,1 @@
-script that reverse its input
+DJ Cut Killer
