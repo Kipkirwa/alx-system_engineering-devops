@@ -1,1 +1,1 @@
-Without C you would live in hiago
+script that reverse its input
