@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# comment
+# config both servers with a custom http header
 
 # Updating Packages before performing installations
 sudo apt-get update
